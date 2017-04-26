@@ -1,0 +1,14 @@
+利用ffmpeg+opencv实现画中画:
+http://blog.csdn.net/dzhuang123/article/details/45054497
+
+
+(1)利用ffmpeg· 的sws_getContext 函数改变小图的大小
+ sws_scale(m_pSwsContext,OutFrame.data,OutFrame.linesize, 0,OutFrame.height,dst->data,dst->linesize);//转换图片大小
+ 
+(2)合成
+cv::cvtColor(littleframe, littlergb,CV_YUV2BGR_I420);   
+cv::cvtColor(bigframe, bigrgb,CV_YUV2BGR_I420); //以上yuv转rgb  
+Mat roi(bigrgb,Rect(0,0,640,480));//大图上设置敏感区  
+littlergb.copyTo(roi);  //把小图拷贝过去  
+Mat outframe;  
+cv::cvtColor(bigrgb, outframe,CV_BGR2YUV_I420); //rgb到yuv  
