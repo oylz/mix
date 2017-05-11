@@ -1,0 +1,13 @@
+from: http://blog.csdn.net/felix86/article/details/38661819
+
+========================================================
+
+I am guessing that at least some of the libraries in the output of
+
+pkg-config opencv --libs
+
+are archive libraries. It is incorrect to put archive libraries before sources that need them (test_1.cpp in this case): the order of sources and libraries on the link line matters.
+
+Try
+
+g++ -o test_1 test_1.cpp `pkg-config opencv --cflags --libs`
