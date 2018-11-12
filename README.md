@@ -6,5 +6,9 @@ Aaaa
 
 Bbbb
 
-cc --> dd
+cc
+
+$$\uparrow$$
+
+dd
 ee ->> ff
