@@ -2,6 +2,6 @@
 something always use.
 Aaaa
 
-&Uarr; 
+&uArr; 
 
 Bbbb
