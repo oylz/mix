@@ -19,8 +19,5 @@ Bbbb
 # third
 [ds]:https://github.com/oylz/DS/blob/master/fdsst
 [ttt]([#ds]/blob/master/Main.cpp#L160TL162)
-```
-aaa /*不流高计*/
-bbb; //ccc
-```
+
 
