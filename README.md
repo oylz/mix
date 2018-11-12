@@ -18,4 +18,5 @@ Bbbb
 
 # third
 [ds]:https://github.com/oylz/DS/blob/master/fdsst
-[fff]([ds]/ffttools.hpp#L12)
+[ds]
+
