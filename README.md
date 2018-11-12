@@ -7,6 +7,4 @@ Aaaa
 Bbbb
 
 graph LR
-id1 ((cc))
-id2 ((dd))
-
+id1
