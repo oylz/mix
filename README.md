@@ -1,5 +1,5 @@
 # autologin
 something always use.
 Aaaa
-\Downarrow
+&Uarr;
 Bbbb
