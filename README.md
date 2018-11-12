@@ -17,4 +17,5 @@ Bbbb
 # second
 
 # third
-[fff](#autologin)
+[ds]https://github.com/oylz/DS/blob/master/fdsst
+[fff](ds/ffttools.hpp#L12)
