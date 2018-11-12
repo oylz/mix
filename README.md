@@ -6,9 +6,7 @@ Aaaa
 
 Bbbb
 
-cc
+graph LR
+id1 ((cc))
+id2 ((dd))
 
-$$\uparrow$$
-
-dd
-ee ->> ff
