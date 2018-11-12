@@ -18,5 +18,5 @@ Bbbb
 
 # third
 [ds]:https://github.com/oylz/DS/blob/master/fdsst
-[ttt](https://github.com/oylz/DS/master/Main.cpp#L160TL162)
+[ttt](https://github.com/oylz/DS/blob/master/Main.cpp#L160TL162)
 
