@@ -17,7 +17,10 @@ Bbbb
 # second
 
 # third
-[ds]:https://github.com/oylz/DS/blob/master/fdsst
-[ttt]([#ds]/blob/master/Main.cpp#L160TL162)
-
+```
+aa
+bb
+[ds](https://github.com/oylz/DS/blob/master/fdsst)
+cc
+```
 
