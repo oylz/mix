@@ -17,6 +17,7 @@ Bbbb
 # second
 
 # third
+c1|c2
 -|-
 aa|bb
 c|d
