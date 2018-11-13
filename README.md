@@ -17,10 +17,6 @@ Bbbb
 # second
 
 # third
-```
-aa
-bb
-[ds](https://github.com/oylz/DS/blob/master/fdsst)
-cc
-```
-
+-|-
+aa|bb
+c|d
