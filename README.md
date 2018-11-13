@@ -17,8 +17,6 @@ Bbbb
 # second
 
 # third
-  <html>
-  aabbcc
-  ddee
-  <a href="fdafadfda">aaa</a>
-    </html>
+-|-
+-|-
+a|-
