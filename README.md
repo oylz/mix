@@ -31,4 +31,4 @@ cc
 > > ### f2
 > > ### f3
 > ## SECOND
-> ## [.1THIRD](#first)
+> ## [THIRD](#first)
