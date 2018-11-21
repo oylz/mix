@@ -32,3 +32,15 @@ cc
 > > ### f3
 > ## SECOND
 > ## [THIRD](#1_1_first)
+
+
+# 3.DEFINES
+
+NAME|VALUE
+-|-
+SSRC_CNAME_LEN|16
+MCU_REGISTER_SERVER|    "{"\<br>        "\"version\":\""MCU_MSC_VERSION"\","\<br>        "\"method\":\""MCU_METHOD_REGISTER_SERVER"\","\<br>        "\"data\":{"\<br>            "\"AppServerId\":\"%s\""\<br>        "}"\<br>    "}"
+MCU_METHOD_SET_RECORD_STATE|"set-record-state"
+MCU_METHOD_SET_MEDIA_STATE|"set-media-state"
+
+
