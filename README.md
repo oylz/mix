@@ -63,8 +63,8 @@ switch_io_routines_t mcu_io_routines = {
 };
 ```
 
-    * [mcu_channel_outgoing_channel](./mcu_endi/mcu_channel_outgoing_channel.c)
-    * [mcu_channel_receive_message](./mcu_endi/mcu_channel_receive_message.c)
+> [mcu_channel_outgoing_channel](./mcu_endi/mcu_channel_outgoing_channel.c)
+> [mcu_channel_receive_message](./mcu_endi/mcu_channel_receive_message.c)
 
 * [endpoint_interface->state_handler = &mcu_state_handlers;](http://gitlab.leucs.com/server-ss/Apollo_FreeSwitch/tree/ee4ecd08418b4a67d911f37100b73d65303eb591/src/src/mod/endpoint/mod_mcu/mod_mcu.c#L7627)
 ```
