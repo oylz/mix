@@ -1,4 +1,4 @@
-<h1 style="text-align:center">MIX </h1>
+<h1 style="text-align:center">mix </h1>
 
 # autologin
 something always use.
