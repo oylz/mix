@@ -51,7 +51,7 @@ A|B|nsync(B)|nydbc(B)
 now A&B update the same row at the same time|-|-|-
 2,0|-|-|-
 -|2,0|-|-
--|-|2,1[nydbc]|-
+-|-|-|2,1[nydbc]
 -|-|-|call(2,1)[nydbc]
 -|-|call(2,0)[nysync]|-
 
